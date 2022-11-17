@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "04adf0d5b4c66cea29b96e77b8031d62",
+    "packages": [
+        {
+            "name": "routecyc/db",
+            "version": "v1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/m7m0od/route-db.git",
+                "reference": "21ec6f6e4df2ecb13c8d5ac5c2a4c7cdf719da80"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/m7m0od/route-db/zipball/21ec6f6e4df2ecb13c8d5ac5c2a4c7cdf719da80",
+                "reference": "21ec6f6e4df2ecb13c8d5ac5c2a4c7cdf719da80",
+                "shasum": ""
+            },
+            "require": {
+                "php": "8.1.5"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Route\\Db\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "mahmoud"
+                }
+            ],
+            "description": "route library",
+            "support": {
+                "issues": "https://github.com/m7m0od/route-db/issues",
+                "source": "https://github.com/m7m0od/route-db/tree/v1"
+            },
+            "time": "2022-10-20T18:33:09+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

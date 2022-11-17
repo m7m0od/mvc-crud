@@ -1,0 +1,17 @@
+{
+    "name": "route/mvc",
+    "autoload": {
+        "psr-4": {
+            "Route\\Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {
+        "routecyc/db": "^1.0"
+    }
+}
